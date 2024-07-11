@@ -1,3 +1,6 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
 cff-version: 1.2.0
 title: ILP solver forbidden induced subgraphs
 message: 'If you use this software, please cite it as below.'
@@ -9,6 +12,9 @@ identifiers:
   - type: url
     value: 'https://github.com/TomHessler/hessler-kandidatarbete'
 repository-code: 'https://github.com/TomHessler/hessler-kandidatarbete'
+url: 'https://github.com/TomHessler/hessler-kandidatarbete'
 abstract: >-
   ILP solver for deleting/adding/removing edges to destroy
   forbidden induced subgraphs.
+version: '1'
+date-released: '2024-07-11'
