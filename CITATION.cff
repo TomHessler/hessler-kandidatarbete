@@ -2,7 +2,7 @@
 # Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-title: ILP solver forbidden induced subgraphs
+title: https://github.com/TomHessler/hessler-kandidatarbete
 message: 'If you use this software, please cite it as below.'
 type: software
 authors:
