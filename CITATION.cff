@@ -1,7 +1,14 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
+title: ILP solver forbidden induced subgraphs
+message: 'If you use this software, please cite it as below.'
+type: software
 authors:
-  - family-names: Hessler
-    given-names: Tom
-title: "ILP solver forbidden induced subgraphs"
-date-released: 2024-07-11
+  - given-names: Tom
+    family-names: Hessler
+identifiers:
+  - type: url
+    value: 'https://github.com/TomHessler/hessler-kandidatarbete'
+repository-code: 'https://github.com/TomHessler/hessler-kandidatarbete'
+abstract: >-
+  ILP solver for deleting/adding/removing edges to destroy
+  forbidden induced subgraphs.
